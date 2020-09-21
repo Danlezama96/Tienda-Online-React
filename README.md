@@ -1,5 +1,5 @@
 # Tienda-Online-React
-Pagina web basica de e-commerce para la venta de telefonos moviles para la clase de Programación Orientada a Web..
+Pagina web basica de e-commerce para la venta de telefonos moviles para la clase de Programación Orientada a Web y analisis y diseño de sistemas
 
 Estando en la carpeta del proyecto "npm start" corre la aplicación en modo de desarrollo,la pagina se recarga si hay cambios
 
